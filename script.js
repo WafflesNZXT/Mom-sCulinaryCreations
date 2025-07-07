@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "Chai",
             description: "Pakistani chai is a robust and invigorating brew, featuring strong black tea leaves (patti) simmered with milk and aromatic cardamom, creating a comforting and full-bodied beverage.",
             category: ["drinks/beverages"],
-            image: "images/IMG_5014.jpg",
+            image: "IMG_5014.jpg",
             ingredients: [
                 "1 1/4 cups water",
                 "1 cup* whole milk",
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "Chicken Boti: Barbequed",
             description: "Chicken Boti Barbequed, often characterized by its vibrant orange or reddish hue, consists of succulent, bite-sized chicken pieces marinated in a flavorful blend of spices, then grilled or barbecued to perfection, resulting in a tender and smoky delight.",
             category: ["lunch", "dinner"],
-            image: "/images/IMG_5120.jpg",
+            image: "IMG_5120.jpg",
             ingredients: [
                 "Chicken Boneless Thigh",
                 "Masala"
@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: "Classic Chicken 65",
             description: "Classic Chicken 65 is a spicy and crispy deep-fried chicken appetizer from South India, renowned for its vibrant red color and fiery flavor profile.",
             category: ["lunch", "dinner"],
-            image: "images/IMG_5255.jpg",
+            image: "IMG_5255.jpg",
             ingredients: [
                 "Boneless Chicken Thigh",
                 "Ginger-Garlic Paste",
